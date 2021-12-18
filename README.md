@@ -1,5 +1,4 @@
-# Links
-An attempt to sort stuff in different categories
+# Links An attempt to sort stuff in different categories
 
 ## Bugbounty
 * https://github.com/EdOverflow/bugbounty-cheatsheet
@@ -94,6 +93,10 @@ An attempt to sort stuff in different categories
 * https://github.com/securitygrind/lz4_decompress 
 * https://github.com/xamarin/xamarin-forms-samples
 
+## Passwords etc.
+* https://github.com/magnumripper/JohnTheRipper
+* https://github.com/netbiosX/Default-Credentials
+
 ## Payloads etc.
 * https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads
 * https://github.com/7ioSecurity/XSS-Payloads.git
@@ -120,6 +123,9 @@ An attempt to sort stuff in different categories
 * https://github.com/FireFart/W3TotalCacheExploit.git
 * https://github.com/0xSobky/HackVault
 * https://github.com/catalyst256/Netscaler-Cookie-Decryptor
+* https://github.com/ianare/exif-samples
+* https://github.com/pentestmonkey/php-reverse-shell
+* https://github.com/neex/gifoeb
 
 ## Recon / Scanners etc.
 * https://github.com/Ullaakut/cameradar
@@ -213,7 +219,6 @@ https://github.com/googleapis/google-api-python-client
 https://github.com/greatscottgadgets/ubertooth
 https://github.com/hakimel/reveal.js
 https://github.com/iagox86/dnscat2.git
-https://github.com/ianare/exif-samples
 https://github.com/infosec-au/altdns.git
 https://github.com/infosecn1nja/AD-Attack-Defense
 https://github.com/j0bin/Pentest-Resources
@@ -229,7 +234,6 @@ https://github.com/leibnitz27/cfr
 https://github.com/lich4/personal_script
 https://github.com/m4ll0k/SecretFinder.git
 https://github.com/maK-/parameth
-https://github.com/magnumripper/JohnTheRipper
 https://github.com/mandatoryprogrammer/cloudflare_enum
 https://github.com/mandatoryprogrammer/xssless.git
 https://github.com/maurosoria/dirsearch
@@ -244,11 +248,8 @@ https://github.com/n3k/Pentest
 https://github.com/nahamsec/JSParser
 https://github.com/nahamsec/lazys3
 https://github.com/nccgroup/featherduster
-https://github.com/neex/gifoeb
-https://github.com/netbiosX/Default-Credentials
 https://github.com/onelogin/python3-saml
 https://github.com/openstack/bandit
-https://github.com/pentestmonkey/php-reverse-shell
 https://github.com/phishai/idn_generator
 https://github.com/pingidentity/pingidentity-docker-builds
 https://github.com/psmet/BIGip-cookie-decoder
