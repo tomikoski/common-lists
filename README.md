@@ -62,6 +62,7 @@ An attempt to sort stuff in different categories
 * https://github.com/sensepost/objection
 * https://github.com/shroudedcode/apk-mitm
 * https://github.com/ndelphit/apkurlgrep
+* https://github.com/oversecured/ovaa
 
 ### iOS
 * https://github.com/AloneMonkey/frida-ios-dump
@@ -75,6 +76,7 @@ An attempt to sort stuff in different categories
 * https://github.com/ivRodriguezCA/RE-iOS-Apps
 * https://github.com/ptoomey3/Keychain-Dumper 
 * https://github.com/stefanesser/dumpdecrypted
+* https://github.com/ouspg/urlhandlers
 
 ### Xamarin
 * https://github.com/securitygrind/lz4_decompress 
@@ -225,15 +227,12 @@ https://github.com/neex/gifoeb
 https://github.com/netbiosX/Default-Credentials
 https://github.com/onelogin/python3-saml
 https://github.com/openstack/bandit
-https://github.com/ouspg/urlhandlers
-https://github.com/oversecured/ovaa
 https://github.com/ozguralp/gmapsapiscanner/
 https://github.com/pentestmonkey/php-reverse-shell
 https://github.com/phishai/idn_generator
 https://github.com/pingidentity/pingidentity-docker-builds
 https://github.com/psmet/BIGip-cookie-decoder
 https://github.com/ptoomey3/evilarc
-https://github.com/pwntester/ysoserial.net
 https://github.com/quarkslab/AERoot
 https://github.com/quentinhardy/odat
 https://github.com/quentinhardy/scriptsAndExploits
