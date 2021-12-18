@@ -97,6 +97,11 @@ An attempt to sort stuff in different categories
 * https://github.com/pwntester/ysoserial.net
 * https://github.com/fuzzdb-project/fuzzdb.git
 
+## TLS/SSL/and then some
+* https://github.com/tls-attacker/TLS-Attacker
+* https://github.com/drwetter/testssl.sh
+* https://github.com/mozilla/cipherscan
+
 
 ## WWW- External resources
 * https://github.com/m0chan/m0chan.github.io
@@ -155,7 +160,6 @@ https://github.com/cujanovic/SSRF-Testing/
 https://github.com/cure53/HTTPLeaks
 https://github.com/damianrusinek/zip-bomb
 https://github.com/danielebailo/couchdb-dump
-https://github.com/danielmiessler/SecLists.git
 https://github.com/dariusztytko/jwt-key-id-injector
 https://github.com/dariusztytko/token-reverser
 https://github.com/dark-warlord14/LinkFinder
@@ -164,7 +168,6 @@ https://github.com/diego-treitos/linux-smart-enumeration
 https://github.com/disclose/disclose
 https://github.com/dogangcr/vulnerable-sso
 https://github.com/dpnishant/appmon
-https://github.com/drwetter/testssl.sh
 https://github.com/dxa4481/XSSJacking.git
 https://github.com/epinna/tplmap.git
 https://github.com/erlang/rebar3.git
@@ -212,7 +215,6 @@ https://github.com/mazen160/GithubCloner.git
 https://github.com/mhmdiaa/web-events
 https://github.com/misterch0c/twitterBFTD
 https://github.com/mncoppola/rpef
-https://github.com/mozilla/cipherscan
 https://github.com/msantos/procket.git
 https://github.com/mthbernardes/rsg
 https://github.com/mwrlabs/needle.git
@@ -254,7 +256,6 @@ https://github.com/sxcurity/230-OOB
 https://github.com/sxcurity/theftfuzzer
 https://github.com/tarunkant/Gopherus
 https://github.com/tengzhangchao/Struts2_045-Poc.git
-https://github.com/tls-attacker/TLS-Attacker
 https://github.com/tomnomnom/waybackurls
 https://github.com/ucsb-seclab/BootStomp
 https://github.com/vulnersCom/nmap-vulners
