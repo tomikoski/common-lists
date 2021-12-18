@@ -1,5 +1,4 @@
-List of misc stuff over the internet
-===
+# List of misc stuff over the internet
 
 ```
 https://github.com/sxcurity/230-OOB
