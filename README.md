@@ -46,9 +46,11 @@ An attempt to sort stuff in different categories
 
 ### Bluetooth
 * https://github.com/virtualabs/btlejack
-
+* https://github.com/nccgroup/BLE-Replay
+* https://github.com/nccgroup/BLESuite
 
 ## Mobile
+* https://github.com/randorisec/MobileHackingCheatSheet
 
 ### Android
 * https://www.github.com/maaaaz/androwarn
@@ -58,17 +60,22 @@ An attempt to sort stuff in different categories
 * https://github.com/shroudedcode/apk-mitm
 * https://github.com/ndelphit/apkurlgrep
 
-### iPhone
+### iOS
 * https://github.com/AloneMonkey/frida-ios-dump
+* https://github.com/mwrlabs/needle.git
 * https://github.com/FSecureLABS/needle-agent
 * https://github.com/KJCracks/Clutch
 * https://github.com/DerekSelander/dsdump
 * https://github.com/sensepost/objection
-
+* https://github.com/bhagyas/app-urls
+* https://github.com/faffi/ioscachedump
+* https://github.com/ivRodriguezCA/RE-iOS-Apps
+* 
 
 ## Payloads etc.
 * https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads
 * https://github.com/7ioSecurity/XSS-Payloads.git
+* https://github.com/danielmiessler/SecLists.git
 
 ## Swisscom :]
 * https://github.com/swisscom/PowerGRR.git
@@ -207,7 +214,6 @@ https://github.com/epinna/tplmap.git
 https://github.com/erlang/rebar3.git
 https://github.com/eth0izzle/bucket-stream
 https://github.com/evilcos/xss.swf
-https://github.com/faffi/ioscachedump
 https://github.com/fgeek/pyfiscan
 https://github.com/fireeye/red_team_tool_countermeasures
 https://github.com/foospidy/payloads.git
@@ -228,7 +234,6 @@ https://github.com/ianare/exif-samples
 https://github.com/ijoshsmith/swift-deep-linking
 https://github.com/infosec-au/altdns.git
 https://github.com/infosecn1nja/AD-Attack-Defense
-https://github.com/ivRodriguezCA/RE-iOS-Apps
 https://github.com/j0bin/Pentest-Resources
 https://github.com/j3ssie/IPOsint
 https://github.com/jakejarvis/awesome-shodan-queries
@@ -242,7 +247,6 @@ https://github.com/jpillora/chisel
 https://github.com/keathmilligan/sshdtest
 https://github.com/leibnitz27/cfr
 https://github.com/lich4/personal_script
-https://github.com/m4ll0k/SecretFinder
 https://github.com/m4ll0k/SecretFinder.git
 https://github.com/maK-/parameth
 https://github.com/magnumripper/JohnTheRipper
