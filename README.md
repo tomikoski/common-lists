@@ -110,6 +110,9 @@ An attempt to sort stuff in different categories
 * https://github.com/damianrusinek/zip-bomb
 * https://github.com/SecWiki/windows-kernel-exploits
 * https://github.com/quentinhardy/scriptsAndExploits
+* https://github.com/akiraaisha/PNG-IDAT-chunks
+* https://github.com/alcuadrado/hieroglyphy
+* https://github.com/chinarulezzz/pixload
 
 ## Recon / Scanners etc.
 * https://github.com/Ullaakut/cameradar
@@ -160,8 +163,6 @@ https://github.com/Smaash/snitch
 https://github.com/SpiderLabs/Nmap-Tools.git
 https://github.com/WebBreacher/tilde_enum
 https://github.com/abhi-r3v0/Adhrit
-https://github.com/akiraaisha/PNG-IDAT-chunks
-https://github.com/alcuadrado/hieroglyphy
 https://github.com/amix/vimrc
 https://github.com/anantshri/svn-extractor.git
 https://github.com/andresriancho/enumerate-iam
@@ -171,7 +172,6 @@ https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration
 https://github.com/arch4ngel/simple_https_server
 https://github.com/atomicbird/momdec
 https://github.com/catalyst256/Netscaler-Cookie-Decryptor
-https://github.com/chinarulezzz/pixload
 https://github.com/christophetd/CloudFlair
 https://github.com/christophetd/censys-subdomain-finder
 https://github.com/chvancooten/OSEP-Code-Snippets/
