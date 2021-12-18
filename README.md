@@ -2,6 +2,12 @@
 
 An attempt to sort stuff in different categories
 
+## First of all, cheers to these guys!
+* https://github.com/jvesiluoma/WeirdMiscScripts
+* https://github.com/jvesiluoma/wordlists
+* https://github.com/m0chan/m0chan.github.io
+* https://github.com/putsi/privatecollaborator
+
 
 ## Bugbounty
 * https://github.com/EdOverflow/bugbounty-cheatsheet
@@ -233,12 +239,9 @@ https://github.com/jobertabma/relative-url-extractor
 https://github.com/jobertabma/transformations
 https://github.com/jordanpotti/AWSBucketDump
 https://github.com/jpillora/chisel
-https://github.com/jvesiluoma/WeirdMiscScripts
-https://github.com/jvesiluoma/wordlists
 https://github.com/keathmilligan/sshdtest
 https://github.com/leibnitz27/cfr
 https://github.com/lich4/personal_script
-https://github.com/m0chan/m0chan.github.io
 https://github.com/m4ll0k/SecretFinder
 https://github.com/m4ll0k/SecretFinder.git
 https://github.com/maK-/parameth
@@ -271,7 +274,6 @@ https://github.com/oversecured/ovaa
 https://github.com/ozguralp/gmapsapiscanner/
 https://github.com/payloadbox/command-injection-payload-list
 https://github.com/payloadbox/xss-payload-list
-https://github.com/pedrib/PoC/
 https://github.com/pentestmonkey/php-reverse-shell
 https://github.com/phishai/idn_generator
 https://github.com/pingidentity/pingidentity-docker-builds
