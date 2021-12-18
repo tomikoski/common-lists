@@ -154,7 +154,6 @@ https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration
 https://github.com/arch4ngel/simple_https_server
 https://github.com/atomicbird/momdec
 https://github.com/attekett/NodeFuzz
-https://github.com/bhagyas/app-urls
 https://github.com/blechschmidt/massdns
 https://github.com/brandonskerritt/RustScan
 https://github.com/brendan-rius/c-jwt-cracker
