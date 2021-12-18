@@ -46,6 +46,9 @@ An attempt to sort stuff in different categories
 * https://github.com/nccgroup/BLE-Replay
 * https://github.com/nccgroup/BLESuite
 
+### Hydrabus
+* https://github.com/hydrabus/DumpFlash-Hydrabus
+
 ### Proxmark
 * https://github.com/rfidresearchgroup/proxmark3
 
@@ -191,7 +194,6 @@ https://github.com/google/tsunami-security-scanner
 https://github.com/googleapis/google-api-python-client
 https://github.com/greatscottgadgets/ubertooth
 https://github.com/hakimel/reveal.js
-https://github.com/hydrabus/DumpFlash-Hydrabus
 https://github.com/iagox86/dnscat2.git
 https://github.com/ianare/exif-samples
 https://github.com/ijoshsmith/swift-deep-linking
@@ -206,7 +208,6 @@ https://github.com/jobertabma/ground-control.git
 https://github.com/jobertabma/relative-url-extractor
 https://github.com/jobertabma/transformations
 https://github.com/jordanpotti/AWSBucketDump
-https://github.com/jpillora/chisel
 https://github.com/leibnitz27/cfr
 https://github.com/lich4/personal_script
 https://github.com/m4ll0k/SecretFinder.git
