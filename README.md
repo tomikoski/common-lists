@@ -1,6 +1,7 @@
 List of misc stuff over the internet
 ===
 
+```
 https://github.com/sxcurity/230-OOB
 https://github.com/nccgroup/featherduster
 https://github.com/ianare/exif-samples
@@ -286,3 +287,5 @@ https://github.com/cujanovic/SSRF-Testing/
 https://github.com/xamarin/xamarin-forms-samples
 https://github.com/quarkslab/AERoot
 https://github.com/1d8/Android-Analysis
+```
+
