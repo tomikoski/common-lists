@@ -91,6 +91,8 @@ An attempt to sort stuff in different categories
 * https://github.com/payloadbox/command-injection-payload-list
 * https://github.com/payloadbox/xss-payload-list
 * https://github.com/ptswarm/ptswarm-twitter
+* https://github.com/pwntester/ysoserial.net
+* https://github.com/fuzzdb-project/fuzzdb.git
 
 
 ## WWW- External resources
@@ -155,7 +157,6 @@ https://github.com/dariusztytko/jwt-key-id-injector
 https://github.com/dariusztytko/token-reverser
 https://github.com/dark-warlord14/LinkFinder
 https://github.com/defparam/h1passets
-https://github.com/denandz/fuzzotron
 https://github.com/diego-treitos/linux-smart-enumeration
 https://github.com/disclose/disclose
 https://github.com/dogangcr/vulnerable-sso
@@ -169,7 +170,6 @@ https://github.com/evilcos/xss.swf
 https://github.com/fgeek/pyfiscan
 https://github.com/fireeye/red_team_tool_countermeasures
 https://github.com/fransr/postMessage-tracker
-https://github.com/frohoff/ysoserial.git
 https://github.com/fuzzdb-project/fuzzdb.git
 https://github.com/g2jun/RC4-Python
 https://github.com/gehaxelt/Python-dsstore
@@ -243,7 +243,6 @@ https://github.com/rebootuser/LinEnum
 https://github.com/rgerganov/xxe-example
 https://github.com/saleyn/erlexec
 https://github.com/samyk/quickjack
-https://github.com/securitygrind/lz4_decompress
 https://github.com/shaunmclernon/ghostcat-verification
 https://github.com/smicallef/spiderfoot
 https://github.com/sp1d3r/swf_json_csrf/
@@ -263,7 +262,6 @@ https://github.com/vulnersCom/nmap-vulners
 https://github.com/vysec/CloudFrontHijacks
 https://github.com/whatyouhide/vim-gotham
 https://github.com/whoisflynn/OSCP-Exam-Report-Template
-https://github.com/xamarin/xamarin-forms-samples
 https://github.com/xct/xc
 https://github.com/xyele/zile
 https://github.com/yassineaboukir/CVE-2018-0296.git
