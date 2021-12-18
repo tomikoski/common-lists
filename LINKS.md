@@ -1,10 +1,26 @@
 # Links
 
+An attempt to sort stuff in different categories
+
 
 ## Bugbounty
 * https://github.com/EdOverflow/bugbounty-cheatsheet
 * https://github.com/GerbenJavado/LinkFinder
+* https://github.com/arkadiyt/bounty-targets-data
+* https://github.com/ngalongc/bug-bounty-reference
 
+## Cloud
+
+## AWS
+* https://github.com/RhinoSecurityLabs/pacu
+* https://github.com/aws-samples/ec2-classic-resource-finder
+
+## Azure
+* ?? 
+
+## Dorking
+* https://github.com/techgaun/github-dorks
+* https://github.com/JohnTroony/Google-dorks/
 
 ## Frida
 * https://github.com/0xdea/frida-scripts
@@ -20,21 +36,33 @@
 * https://github.com/Darkkey/erlamsa
 * https://github.com/Darkkey/erlserial.git
 
+## Hardware
+
+### Bluetooth
+* https://github.com/virtualabs/btlejack
+
 
 ## Mobile
+
 ### Android
 * https://www.github.com/maaaaz/androwarn
 * https://github.com/1d8/Android-Analysis
 * https://github.com/B3nac/InjuredAndroid
+* https://github.com/sensepost/objection
+* https://github.com/shroudedcode/apk-mitm
+* https://github.com/ndelphit/apkurlgrep
 
 ### iPhone
 * https://github.com/AloneMonkey/frida-ios-dump
 * https://github.com/FSecureLABS/needle-agent
 * https://github.com/KJCracks/Clutch
+* https://github.com/DerekSelander/dsdump
+* https://github.com/sensepost/objection
 
 
 ## Payloads etc.
 * https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads
+* https://github.com/7ioSecurity/XSS-Payloads.git
 
 ## Swisscom :]
 * https://github.com/swisscom/PowerGRR.git
@@ -104,33 +132,25 @@
 ```
 https://github.com/0x25/pyScan
 https://github.com/0xSobky/HackVault
-https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads
 https://github.com/0xn0ne/weblogicScanner
-https://github.com/7ioSecurity/XSS-Payloads.git
 https://github.com/Arno0x/DNSExfiltrator
 https://github.com/C0RB3N/subjs
 https://github.com/ChiChou/bagbak
 https://github.com/Col-E/Recaf
 https://github.com/DeepakPawar95/cswsh
-https://github.com/DerekSelander/dsdump
-https://github.com/FSecureLABS/needle-agent
 https://github.com/FireFart/W3TotalCacheExploit.git
 https://github.com/Ganapati/RsaCtfTool
 https://github.com/GerbenJavado/LinkFinder
 https://github.com/GrrrDog/ZeroNights-HackQuest-2016.git
 https://github.com/IOActive/RepoSsessed
-https://github.com/JohnTroony/Google-dorks/
-https://github.com/KJCracks/Clutch
 https://github.com/KathanP19/JSFScan.sh
 https://github.com/MindPointGroup/cloudfrunt
 https://github.com/Moonisky/NibFileViewer
 https://github.com/NickstaDB/DeserLab
 https://github.com/OJ/gobuster.git
-https://github.com/OWASP/owasp-mstg
 https://github.com/Plazmaz/leaky-repo
 https://github.com/PortSwigger/hackability
 https://github.com/PortSwigger/turbo-intruder
-https://github.com/RhinoSecurityLabs/pacu
 https://github.com/SecWiki/windows-kernel-exploits
 https://github.com/Smaash/snitch
 https://github.com/SpiderLabs/Nmap-Tools.git
@@ -146,16 +166,13 @@ https://github.com/andresriancho/nimbostratus.git
 https://github.com/anshumanbh/tko-subs
 https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration
 https://github.com/arch4ngel/simple_https_server
-https://github.com/arkadiyt/bounty-targets-data
 https://github.com/atomicbird/momdec
 https://github.com/attekett/NodeFuzz
 https://github.com/atthorst/sshd-mina-example
-https://github.com/aws-samples/ec2-classic-resource-finder
 https://github.com/bhagyas/app-urls
 https://github.com/blechschmidt/massdns
 https://github.com/brandonskerritt/RustScan
 https://github.com/brendan-rius/c-jwt-cracker
-https://github.com/bugbountyforum/XSS-Radar
 https://github.com/catalyst256/Netscaler-Cookie-Decryptor
 https://github.com/chinarulezzz/pixload
 https://github.com/christophetd/CloudFlair
@@ -245,10 +262,8 @@ https://github.com/nahamsec/lazys3
 https://github.com/nccgroup/BLE-Replay
 https://github.com/nccgroup/BLESuite
 https://github.com/nccgroup/featherduster
-https://github.com/ndelphit/apkurlgrep
 https://github.com/neex/gifoeb
 https://github.com/netbiosX/Default-Credentials
-https://github.com/ngalongc/bug-bounty-reference
 https://github.com/onelogin/python3-saml
 https://github.com/openstack/bandit
 https://github.com/ouspg/urlhandlers
@@ -279,9 +294,7 @@ https://github.com/rgerganov/xxe-example
 https://github.com/saleyn/erlexec
 https://github.com/samyk/quickjack
 https://github.com/securitygrind/lz4_decompress
-https://github.com/sensepost/objection
 https://github.com/shaunmclernon/ghostcat-verification
-https://github.com/shroudedcode/apk-mitm
 https://github.com/smicallef/spiderfoot
 https://github.com/sp1d3r/swf_json_csrf/
 https://github.com/stefanesser/dumpdecrypted
@@ -293,13 +306,10 @@ https://github.com/swisskyrepo/SSRFmap
 https://github.com/sxcurity/230-OOB
 https://github.com/sxcurity/theftfuzzer
 https://github.com/tarunkant/Gopherus
-https://github.com/techgaun/github-dorks
 https://github.com/tengzhangchao/Struts2_045-Poc.git
 https://github.com/tls-attacker/TLS-Attacker
 https://github.com/tomnomnom/waybackurls
-https://github.com/twitterdev/Twitter-API-v2-sample-code
 https://github.com/ucsb-seclab/BootStomp
-https://github.com/virtualabs/btlejack
 https://github.com/vulnersCom/burp-vulners-scanner.git
 https://github.com/vulnersCom/nmap-vulners
 https://github.com/vysec/CloudFrontHijacks
