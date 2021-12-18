@@ -117,6 +117,9 @@ An attempt to sort stuff in different categories
 * https://github.com/chinarulezzz/pixload
 * https://github.com/tengzhangchao/Struts2_045-Poc.git
 * https://github.com/quentinhardy/scriptsAndExploits
+* https://github.com/FireFart/W3TotalCacheExploit.git
+* https://github.com/0xSobky/HackVault
+* https://github.com/catalyst256/Netscaler-Cookie-Decryptor
 
 ## Recon / Scanners etc.
 * https://github.com/Ullaakut/cameradar
@@ -157,10 +160,8 @@ An attempt to sort stuff in different categories
 
 ## NOT SORTED YET
 ```
-https://github.com/0xSobky/HackVault
 https://github.com/Arno0x/DNSExfiltrator
 https://github.com/DeepakPawar95/cswsh
-https://github.com/FireFart/W3TotalCacheExploit.git
 https://github.com/Ganapati/RsaCtfTool
 https://github.com/GrrrDog/ZeroNights-HackQuest-2016.git
 https://github.com/IOActive/RepoSsessed
@@ -173,7 +174,6 @@ https://github.com/Smaash/snitch
 https://github.com/SpiderLabs/Nmap-Tools.git
 https://github.com/WebBreacher/tilde_enum
 https://github.com/abhi-r3v0/Adhrit
-https://github.com/amix/vimrc
 https://github.com/anantshri/svn-extractor.git
 https://github.com/andresriancho/enumerate-iam
 https://github.com/andresriancho/nimbostratus.git
@@ -181,7 +181,6 @@ https://github.com/anshumanbh/tko-subs
 https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration
 https://github.com/arch4ngel/simple_https_server
 https://github.com/atomicbird/momdec
-https://github.com/catalyst256/Netscaler-Cookie-Decryptor
 https://github.com/christophetd/CloudFlair
 https://github.com/christophetd/censys-subdomain-finder
 https://github.com/chvancooten/OSEP-Code-Snippets/
