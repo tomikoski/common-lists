@@ -5,6 +5,7 @@
 * https://github.com/arkadiyt/bounty-targets-data
 * https://github.com/ngalongc/bug-bounty-reference
 * https://github.com/streaak/keyhacks
+* https://github.com/nahamsec/lazys3
 
 ## Burp
 * https://github.com/putsi/privatecollaborator
@@ -139,6 +140,7 @@
 * https://github.com/neex/gifoeb
 * https://github.com/psmet/BIGip-cookie-decoder
 * https://github.com/joaomatosf/jexboss
+* https://github.com/mzer0one/CVE-2020-7961-POC
 
 ## Recon / Scanners etc.
 * https://github.com/Ullaakut/cameradar
@@ -150,6 +152,9 @@
 * https://github.com/brandonskerritt/RustScan
 * https://github.com/tomnomnom/waybackurls
 * https://github.com/ozguralp/gmapsapiscanner/
+* https://github.com/google/tsunami-security-scanner
+* https://github.com/gelim/censys
+* https://github.com/christophetd/censys-subdomain-finder
 
 ## Reverse-engineering
 * https://github.com/Col-E/Recaf
@@ -200,7 +205,6 @@ https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration
 https://github.com/arch4ngel/simple_https_server
 https://github.com/atomicbird/momdec
 https://github.com/christophetd/CloudFlair
-https://github.com/christophetd/censys-subdomain-finder
 https://github.com/chvancooten/OSEP-Code-Snippets/
 https://github.com/codingo/Interlace.git
 https://github.com/cujanovic/SSRF-Testing/
@@ -222,8 +226,6 @@ https://github.com/fgeek/pyfiscan
 https://github.com/fireeye/red_team_tool_countermeasures
 https://github.com/fransr/postMessage-tracker
 https://github.com/gehaxelt/Python-dsstore
-https://github.com/gelim/censys
-https://github.com/google/tsunami-security-scanner
 https://github.com/hakimel/reveal.js
 https://github.com/iagox86/dnscat2.git
 https://github.com/infosec-au/altdns.git
@@ -249,10 +251,8 @@ https://github.com/misterch0c/twitterBFTD
 https://github.com/mncoppola/rpef
 https://github.com/msantos/procket.git
 https://github.com/mthbernardes/rsg
-https://github.com/mzer0one/CVE-2020-7961-POC
 https://github.com/n3k/Pentest
 https://github.com/nahamsec/JSParser
-https://github.com/nahamsec/lazys3
 https://github.com/onelogin/python3-saml
 https://github.com/openstack/bandit
 https://github.com/phishai/idn_generator
