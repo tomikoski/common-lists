@@ -1,7 +1,5 @@
 # Links
-
 An attempt to sort stuff in different categories
-
 
 ## Bugbounty
 * https://github.com/EdOverflow/bugbounty-cheatsheet
@@ -96,6 +94,11 @@ An attempt to sort stuff in different categories
 * https://github.com/ptswarm/ptswarm-twitter
 * https://github.com/pwntester/ysoserial.net
 * https://github.com/fuzzdb-project/fuzzdb.git
+* https://github.com/mattias-ohlsson/eicar-standard-antivirus-test-files
+
+## Shells etc.
+* https://github.com/jpillora/chisel
+* https://github.com/xct/xc
 
 ## SSH
 * https://github.com/atthorst/sshd-mina-example
@@ -106,7 +109,6 @@ An attempt to sort stuff in different categories
 * https://github.com/tls-attacker/TLS-Attacker
 * https://github.com/drwetter/testssl.sh
 * https://github.com/mozilla/cipherscan
-
 
 ## WWW- External resources
 * https://github.com/m0chan/m0chan.github.io
