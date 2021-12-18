@@ -24,6 +24,8 @@ An attempt to sort stuff in different categories
 
 ## Crypto
 * https://github.com/ciphey/ciphey
+* https://github.com/dariusztytko/jwt-key-id-injector
+* https://github.com/dariusztytko/token-reverser
 
 ## Dorking
 * https://github.com/techgaun/github-dorks
@@ -82,6 +84,8 @@ An attempt to sort stuff in different categories
 * https://github.com/stefanesser/dumpdecrypted
 * https://github.com/ouspg/urlhandlers
 * https://github.com/ijoshsmith/swift-deep-linking
+* https://github.com/NyaMisty/fouldecrypt
+* https://github.com/Moonisky/NibFileViewer
 
 ### Xamarin
 * https://github.com/securitygrind/lz4_decompress 
@@ -128,7 +132,6 @@ https://github.com/0xSobky/HackVault
 https://github.com/0xn0ne/weblogicScanner
 https://github.com/Arno0x/DNSExfiltrator
 https://github.com/C0RB3N/subjs
-https://github.com/ChiChou/bagbak
 https://github.com/Col-E/Recaf
 https://github.com/DeepakPawar95/cswsh
 https://github.com/FireFart/W3TotalCacheExploit.git
@@ -138,7 +141,6 @@ https://github.com/GrrrDog/ZeroNights-HackQuest-2016.git
 https://github.com/IOActive/RepoSsessed
 https://github.com/KathanP19/JSFScan.sh
 https://github.com/MindPointGroup/cloudfrunt
-https://github.com/Moonisky/NibFileViewer
 https://github.com/NickstaDB/DeserLab
 https://github.com/OJ/gobuster.git
 https://github.com/Plazmaz/leaky-repo
