@@ -212,7 +212,6 @@ https://github.com/evilcos/xss.swf
 https://github.com/fgeek/pyfiscan
 https://github.com/fireeye/red_team_tool_countermeasures
 https://github.com/fransr/postMessage-tracker
-https://github.com/fuzzdb-project/fuzzdb.git
 https://github.com/g2jun/RC4-Python
 https://github.com/gehaxelt/Python-dsstore
 https://github.com/gelim/censys
