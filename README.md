@@ -43,7 +43,7 @@ An attempt to sort stuff in different categories
 
 ## Hardware
 
-### Bluetooth
+### Bluetooth/BLE
 * https://github.com/virtualabs/btlejack
 * https://github.com/nccgroup/BLE-Replay
 * https://github.com/nccgroup/BLESuite
@@ -74,6 +74,7 @@ An attempt to sort stuff in different categories
 * https://github.com/faffi/ioscachedump
 * https://github.com/ivRodriguezCA/RE-iOS-Apps
 * https://github.com/ptoomey3/Keychain-Dumper 
+* https://github.com/stefanesser/dumpdecrypted
 
 ### Xamarin
 * https://github.com/securitygrind/lz4_decompress 
@@ -246,7 +247,6 @@ https://github.com/samyk/quickjack
 https://github.com/shaunmclernon/ghostcat-verification
 https://github.com/smicallef/spiderfoot
 https://github.com/sp1d3r/swf_json_csrf/
-https://github.com/stefanesser/dumpdecrypted
 https://github.com/stevenvachon/broken-link-checker
 https://github.com/streaak/keyhacks
 https://github.com/swisskyrepo/GraphQLmap
