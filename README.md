@@ -22,6 +22,9 @@ An attempt to sort stuff in different categories
 ## Azure
 * ?? 
 
+## Crypto
+* https://github.com/ciphey/ciphey
+
 ## Dorking
 * https://github.com/techgaun/github-dorks
 * https://github.com/JohnTroony/Google-dorks/
@@ -78,6 +81,7 @@ An attempt to sort stuff in different categories
 * https://github.com/ptoomey3/Keychain-Dumper 
 * https://github.com/stefanesser/dumpdecrypted
 * https://github.com/ouspg/urlhandlers
+* https://github.com/ijoshsmith/swift-deep-linking
 
 ### Xamarin
 * https://github.com/securitygrind/lz4_decompress 
@@ -98,6 +102,7 @@ An attempt to sort stuff in different categories
 * https://github.com/pwntester/ysoserial.net
 * https://github.com/fuzzdb-project/fuzzdb.git
 * https://github.com/mattias-ohlsson/eicar-standard-antivirus-test-files
+* https://github.com/damianrusinek/zip-bomb
 
 ## Shells etc.
 * https://github.com/jpillora/chisel
@@ -162,11 +167,9 @@ https://github.com/chinarulezzz/pixload
 https://github.com/christophetd/CloudFlair
 https://github.com/christophetd/censys-subdomain-finder
 https://github.com/chvancooten/OSEP-Code-Snippets/
-https://github.com/ciphey/ciphey
 https://github.com/codingo/Interlace.git
 https://github.com/cujanovic/SSRF-Testing/
 https://github.com/cure53/HTTPLeaks
-https://github.com/damianrusinek/zip-bomb
 https://github.com/danielebailo/couchdb-dump
 https://github.com/dariusztytko/jwt-key-id-injector
 https://github.com/dariusztytko/token-reverser
@@ -195,7 +198,6 @@ https://github.com/greatscottgadgets/ubertooth
 https://github.com/hakimel/reveal.js
 https://github.com/iagox86/dnscat2.git
 https://github.com/ianare/exif-samples
-https://github.com/ijoshsmith/swift-deep-linking
 https://github.com/infosec-au/altdns.git
 https://github.com/infosecn1nja/AD-Attack-Defense
 https://github.com/j0bin/Pentest-Resources
@@ -214,7 +216,6 @@ https://github.com/maK-/parameth
 https://github.com/magnumripper/JohnTheRipper
 https://github.com/mandatoryprogrammer/cloudflare_enum
 https://github.com/mandatoryprogrammer/xssless.git
-https://github.com/mattias-ohlsson/eicar-standard-antivirus-test-files
 https://github.com/maurosoria/dirsearch
 https://github.com/mazen160/GithubCloner.git
 https://github.com/mhmdiaa/web-events
@@ -222,7 +223,6 @@ https://github.com/misterch0c/twitterBFTD
 https://github.com/mncoppola/rpef
 https://github.com/msantos/procket.git
 https://github.com/mthbernardes/rsg
-https://github.com/mwrlabs/needle.git
 https://github.com/mzer0one/CVE-2020-7961-POC
 https://github.com/n3k/Pentest
 https://github.com/nahamsec/JSParser
