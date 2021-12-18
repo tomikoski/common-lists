@@ -1,38 +1,113 @@
 # Links
 
+
 ## Bugbounty
 * https://github.com/EdOverflow/bugbounty-cheatsheet
 * https://github.com/GerbenJavado/LinkFinder
+
+
+## Frida
+* https://github.com/0xdea/frida-scripts
+* https://github.com/as0ler/frida-scripts
+* https://github.com/iddoeldor/frida-snippets
+* https://github.com/interference-security/frida-scripts
+* https://github.com/rubaljain/frida-jb-bypass
+* https://gitlab.com/roxanagogonea/frida-scripts.git
+
 
 ## Fuzzing
 * https://github.com/0verpwn/Fuzzing
 * https://github.com/Darkkey/erlamsa
 * https://github.com/Darkkey/erlserial.git
 
-## Mobile
 
+## Mobile
 ### Android
 * https://www.github.com/maaaaz/androwarn
+* https://github.com/1d8/Android-Analysis
+* https://github.com/B3nac/InjuredAndroid
 
 ### iPhone
 * https://github.com/AloneMonkey/frida-ios-dump
 * https://github.com/FSecureLABS/needle-agent
+* https://github.com/KJCracks/Clutch
+
 
 ## Payloads etc.
 * https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads
+
+## Swisscom :]
+* https://github.com/swisscom/PowerGRR.git
+* https://github.com/swisscom/bosh-agent.git
+* https://github.com/swisscom/bosh-init.git
+* https://github.com/swisscom/cf-buildpack-kibana.git
+* https://github.com/swisscom/cf-buildpack-logstash.git
+* https://github.com/swisscom/cf-default-app-dotnetcore.git
+* https://github.com/swisscom/cf-default-app-go.git
+* https://github.com/swisscom/cf-default-app-java.git
+* https://github.com/swisscom/cf-default-app-nodejs.git
+* https://github.com/swisscom/cf-default-app-php.git
+* https://github.com/swisscom/cf-default-app-python.git
+* https://github.com/swisscom/cf-default-app-ruby.git
+* https://github.com/swisscom/cf-default-app-staticfile.git
+* https://github.com/swisscom/cf-elk-sample.git
+* https://github.com/swisscom/cf-redis-example-app.git
+* https://github.com/swisscom/cf-sample-app-clojure.git
+* https://github.com/swisscom/cf-sample-app-dotnetcore.git
+* https://github.com/swisscom/cf-sample-app-go.git
+* https://github.com/swisscom/cf-sample-app-java.git
+* https://github.com/swisscom/cf-sample-app-nodejs.git
+* https://github.com/swisscom/cf-sample-app-python.git
+* https://github.com/swisscom/cf-sample-app-ruby.git
+* https://github.com/swisscom/cf-statistics-plugin.git
+* https://github.com/swisscom/cleanerversion.git
+* https://github.com/swisscom/cloudfoundry-sticky-session.git
+* https://github.com/swisscom/collectd-scaleio.git
+* https://github.com/swisscom/docs-api.git
+* https://github.com/swisscom/docs-appcloud-billing.git
+* https://github.com/swisscom/docs-appcloud-book.git
+* https://github.com/swisscom/docs-appcloud-console.git
+* https://github.com/swisscom/docs-appcloud-devguide.git
+* https://github.com/swisscom/docs-appcloud-getting-started.git
+* https://github.com/swisscom/docs-appcloud-service-connector.git
+* https://github.com/swisscom/docs-appcloud-service-offerings.git
+* https://github.com/swisscom/docs-appcloud-tutorial-clojure.git
+* https://github.com/swisscom/docs-appcloud-tutorial-dotnetcore.git
+* https://github.com/swisscom/docs-appcloud-tutorial-go.git
+* https://github.com/swisscom/docs-appcloud-tutorial-java.git
+* https://github.com/swisscom/docs-appcloud-tutorial-nodejs.git
+* https://github.com/swisscom/docs-appcloud-tutorial-php.git
+* https://github.com/swisscom/docs-appcloud-tutorial-python.git
+* https://github.com/swisscom/docs-appcloud-tutorial-ruby.git
+* https://github.com/swisscom/docs-dop.git
+* https://github.com/swisscom/dop_common.git
+* https://github.com/swisscom/dopc-client.git
+* https://github.com/swisscom/dopi.git
+* https://github.com/swisscom/dopv.git
+* https://github.com/swisscom/dynstrg-howto.git
+* https://github.com/swisscom/gitlab-merge-request-resource.git
+* https://github.com/swisscom/iovisor.git
+* https://github.com/swisscom/mcollective-cmd-agent.git
+* https://github.com/swisscom/mongodb-enterprise-boshrelease.git
+* https://github.com/swisscom/ng1-ts-boilerplate.git
+* https://github.com/swisscom/open-service-broker.git
+* https://github.com/swisscom/puppet-package_verifiable.git
+* https://github.com/swisscom/rabbitmq-cloudfoundry-samples.git
+* https://github.com/swisscom/riemann-firehose-nozzle.git
+* https://github.com/swisscom/ruby-netsnmp.git
+* https://github.com/swisscom/telegraf.git
+* https://github.com/swisscom/vmware-network-profiles-patch.git
+* https://github.com/swisscom/vrli-vro-nodejs.git
 
 
 ## NOT SORTED YET
 ```
 https://github.com/0x25/pyScan
 https://github.com/0xSobky/HackVault
-https://github.com/0xdea/frida-scripts
 https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads
 https://github.com/0xn0ne/weblogicScanner
-https://github.com/1d8/Android-Analysis
 https://github.com/7ioSecurity/XSS-Payloads.git
 https://github.com/Arno0x/DNSExfiltrator
-https://github.com/B3nac/InjuredAndroid
 https://github.com/C0RB3N/subjs
 https://github.com/ChiChou/bagbak
 https://github.com/Col-E/Recaf
@@ -72,7 +147,6 @@ https://github.com/anshumanbh/tko-subs
 https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration
 https://github.com/arch4ngel/simple_https_server
 https://github.com/arkadiyt/bounty-targets-data
-https://github.com/as0ler/frida-scripts
 https://github.com/atomicbird/momdec
 https://github.com/attekett/NodeFuzz
 https://github.com/atthorst/sshd-mina-example
@@ -128,11 +202,9 @@ https://github.com/hakimel/reveal.js
 https://github.com/hydrabus/DumpFlash-Hydrabus
 https://github.com/iagox86/dnscat2.git
 https://github.com/ianare/exif-samples
-https://github.com/iddoeldor/frida-snippets
 https://github.com/ijoshsmith/swift-deep-linking
 https://github.com/infosec-au/altdns.git
 https://github.com/infosecn1nja/AD-Attack-Defense
-https://github.com/interference-security/frida-scripts
 https://github.com/ivRodriguezCA/RE-iOS-Apps
 https://github.com/j0bin/Pentest-Resources
 https://github.com/j3ssie/IPOsint
@@ -204,7 +276,6 @@ https://github.com/rapid7/ssh-badkeys/
 https://github.com/rebootuser/LinEnum
 https://github.com/rfidresearchgroup/proxmark3
 https://github.com/rgerganov/xxe-example
-https://github.com/rubaljain/frida-jb-bypass
 https://github.com/saleyn/erlexec
 https://github.com/samyk/quickjack
 https://github.com/securitygrind/lz4_decompress
@@ -216,67 +287,6 @@ https://github.com/sp1d3r/swf_json_csrf/
 https://github.com/stefanesser/dumpdecrypted
 https://github.com/stevenvachon/broken-link-checker
 https://github.com/streaak/keyhacks
-https://github.com/swisscom/PowerGRR.git
-https://github.com/swisscom/bosh-agent.git
-https://github.com/swisscom/bosh-init.git
-https://github.com/swisscom/cf-buildpack-kibana.git
-https://github.com/swisscom/cf-buildpack-logstash.git
-https://github.com/swisscom/cf-default-app-dotnetcore.git
-https://github.com/swisscom/cf-default-app-go.git
-https://github.com/swisscom/cf-default-app-java.git
-https://github.com/swisscom/cf-default-app-nodejs.git
-https://github.com/swisscom/cf-default-app-php.git
-https://github.com/swisscom/cf-default-app-python.git
-https://github.com/swisscom/cf-default-app-ruby.git
-https://github.com/swisscom/cf-default-app-staticfile.git
-https://github.com/swisscom/cf-elk-sample.git
-https://github.com/swisscom/cf-redis-example-app.git
-https://github.com/swisscom/cf-sample-app-clojure.git
-https://github.com/swisscom/cf-sample-app-dotnetcore.git
-https://github.com/swisscom/cf-sample-app-go.git
-https://github.com/swisscom/cf-sample-app-java.git
-https://github.com/swisscom/cf-sample-app-nodejs.git
-https://github.com/swisscom/cf-sample-app-python.git
-https://github.com/swisscom/cf-sample-app-ruby.git
-https://github.com/swisscom/cf-statistics-plugin.git
-https://github.com/swisscom/cleanerversion.git
-https://github.com/swisscom/cloudfoundry-sticky-session.git
-https://github.com/swisscom/collectd-scaleio.git
-https://github.com/swisscom/docs-api.git
-https://github.com/swisscom/docs-appcloud-billing.git
-https://github.com/swisscom/docs-appcloud-book.git
-https://github.com/swisscom/docs-appcloud-console.git
-https://github.com/swisscom/docs-appcloud-devguide.git
-https://github.com/swisscom/docs-appcloud-getting-started.git
-https://github.com/swisscom/docs-appcloud-service-connector.git
-https://github.com/swisscom/docs-appcloud-service-offerings.git
-https://github.com/swisscom/docs-appcloud-tutorial-clojure.git
-https://github.com/swisscom/docs-appcloud-tutorial-dotnetcore.git
-https://github.com/swisscom/docs-appcloud-tutorial-go.git
-https://github.com/swisscom/docs-appcloud-tutorial-java.git
-https://github.com/swisscom/docs-appcloud-tutorial-nodejs.git
-https://github.com/swisscom/docs-appcloud-tutorial-php.git
-https://github.com/swisscom/docs-appcloud-tutorial-python.git
-https://github.com/swisscom/docs-appcloud-tutorial-ruby.git
-https://github.com/swisscom/docs-dop.git
-https://github.com/swisscom/dop_common.git
-https://github.com/swisscom/dopc-client.git
-https://github.com/swisscom/dopi.git
-https://github.com/swisscom/dopv.git
-https://github.com/swisscom/dynstrg-howto.git
-https://github.com/swisscom/gitlab-merge-request-resource.git
-https://github.com/swisscom/iovisor.git
-https://github.com/swisscom/mcollective-cmd-agent.git
-https://github.com/swisscom/mongodb-enterprise-boshrelease.git
-https://github.com/swisscom/ng1-ts-boilerplate.git
-https://github.com/swisscom/open-service-broker.git
-https://github.com/swisscom/puppet-package_verifiable.git
-https://github.com/swisscom/rabbitmq-cloudfoundry-samples.git
-https://github.com/swisscom/riemann-firehose-nozzle.git
-https://github.com/swisscom/ruby-netsnmp.git
-https://github.com/swisscom/telegraf.git
-https://github.com/swisscom/vmware-network-profiles-patch.git
-https://github.com/swisscom/vrli-vro-nodejs.git
 https://github.com/swisskyrepo/GraphQLmap
 https://github.com/swisskyrepo/PayloadsAllTheThings
 https://github.com/swisskyrepo/SSRFmap
@@ -302,6 +312,4 @@ https://github.com/yassineaboukir/CVE-2018-0296.git
 https://github.com/zricethezav/gitleaks
 https://github.com/zxgio/r2-cheatsheet
 https://gitlab.com/dee-see/graphql-path-enum
-https://gitlab.com/roxanagogonea/frida-scripts.git
-https://www.github.com/maaaaz/androwarn
 ```
