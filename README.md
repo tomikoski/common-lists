@@ -11,6 +11,7 @@ An attempt to sort stuff in different categories
 
 ## Burp
 * https://github.com/putsi/privatecollaborator
+* https://github.com/vulnersCom/burp-vulners-scanner.git
 
 ## Cloud
 
@@ -67,7 +68,7 @@ An attempt to sort stuff in different categories
 * https://github.com/bhagyas/app-urls
 * https://github.com/faffi/ioscachedump
 * https://github.com/ivRodriguezCA/RE-iOS-Apps
-* 
+* https://github.com/ptoomey3/Keychain-Dumper 
 
 ## Payloads etc.
 * https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads
@@ -75,71 +76,13 @@ An attempt to sort stuff in different categories
 * https://github.com/danielmiessler/SecLists.git
 * https://github.com/jvesiluoma/wordlists
 * https://github.com/jvesiluoma/WeirdMiscScripts
+* https://github.com/cujanovic/Markdown-XSS-Payloads
+* https://github.com/foospidy/payloads.git
+* https://github.com/swisskyrepo/PayloadsAllTheThings
+* https://github.com/payloadbox/command-injection-payload-list
+* https://github.com/payloadbox/xss-payload-list
 
-## Swisscom :]
-* https://github.com/swisscom/PowerGRR.git
-* https://github.com/swisscom/bosh-agent.git
-* https://github.com/swisscom/bosh-init.git
-* https://github.com/swisscom/cf-buildpack-kibana.git
-* https://github.com/swisscom/cf-buildpack-logstash.git
-* https://github.com/swisscom/cf-default-app-dotnetcore.git
-* https://github.com/swisscom/cf-default-app-go.git
-* https://github.com/swisscom/cf-default-app-java.git
-* https://github.com/swisscom/cf-default-app-nodejs.git
-* https://github.com/swisscom/cf-default-app-php.git
-* https://github.com/swisscom/cf-default-app-python.git
-* https://github.com/swisscom/cf-default-app-ruby.git
-* https://github.com/swisscom/cf-default-app-staticfile.git
-* https://github.com/swisscom/cf-elk-sample.git
-* https://github.com/swisscom/cf-redis-example-app.git
-* https://github.com/swisscom/cf-sample-app-clojure.git
-* https://github.com/swisscom/cf-sample-app-dotnetcore.git
-* https://github.com/swisscom/cf-sample-app-go.git
-* https://github.com/swisscom/cf-sample-app-java.git
-* https://github.com/swisscom/cf-sample-app-nodejs.git
-* https://github.com/swisscom/cf-sample-app-python.git
-* https://github.com/swisscom/cf-sample-app-ruby.git
-* https://github.com/swisscom/cf-statistics-plugin.git
-* https://github.com/swisscom/cleanerversion.git
-* https://github.com/swisscom/cloudfoundry-sticky-session.git
-* https://github.com/swisscom/collectd-scaleio.git
-* https://github.com/swisscom/docs-api.git
-* https://github.com/swisscom/docs-appcloud-billing.git
-* https://github.com/swisscom/docs-appcloud-book.git
-* https://github.com/swisscom/docs-appcloud-console.git
-* https://github.com/swisscom/docs-appcloud-devguide.git
-* https://github.com/swisscom/docs-appcloud-getting-started.git
-* https://github.com/swisscom/docs-appcloud-service-connector.git
-* https://github.com/swisscom/docs-appcloud-service-offerings.git
-* https://github.com/swisscom/docs-appcloud-tutorial-clojure.git
-* https://github.com/swisscom/docs-appcloud-tutorial-dotnetcore.git
-* https://github.com/swisscom/docs-appcloud-tutorial-go.git
-* https://github.com/swisscom/docs-appcloud-tutorial-java.git
-* https://github.com/swisscom/docs-appcloud-tutorial-nodejs.git
-* https://github.com/swisscom/docs-appcloud-tutorial-php.git
-* https://github.com/swisscom/docs-appcloud-tutorial-python.git
-* https://github.com/swisscom/docs-appcloud-tutorial-ruby.git
-* https://github.com/swisscom/docs-dop.git
-* https://github.com/swisscom/dop_common.git
-* https://github.com/swisscom/dopc-client.git
-* https://github.com/swisscom/dopi.git
-* https://github.com/swisscom/dopv.git
-* https://github.com/swisscom/dynstrg-howto.git
-* https://github.com/swisscom/gitlab-merge-request-resource.git
-* https://github.com/swisscom/iovisor.git
-* https://github.com/swisscom/mcollective-cmd-agent.git
-* https://github.com/swisscom/mongodb-enterprise-boshrelease.git
-* https://github.com/swisscom/ng1-ts-boilerplate.git
-* https://github.com/swisscom/open-service-broker.git
-* https://github.com/swisscom/puppet-package_verifiable.git
-* https://github.com/swisscom/rabbitmq-cloudfoundry-samples.git
-* https://github.com/swisscom/riemann-firehose-nozzle.git
-* https://github.com/swisscom/ruby-netsnmp.git
-* https://github.com/swisscom/telegraf.git
-* https://github.com/swisscom/vmware-network-profiles-patch.git
-* https://github.com/swisscom/vrli-vro-nodejs.git
-
-## External resources
+## WWW- External resources
 * https://github.com/m0chan/m0chan.github.io
 
 ## NOT SORTED YET
@@ -194,7 +137,6 @@ https://github.com/christophetd/censys-subdomain-finder
 https://github.com/chvancooten/OSEP-Code-Snippets/
 https://github.com/ciphey/ciphey
 https://github.com/codingo/Interlace.git
-https://github.com/cujanovic/Markdown-XSS-Payloads
 https://github.com/cujanovic/SSRF-Testing/
 https://github.com/cure53/HTTPLeaks
 https://github.com/damianrusinek/zip-bomb
@@ -217,7 +159,6 @@ https://github.com/eth0izzle/bucket-stream
 https://github.com/evilcos/xss.swf
 https://github.com/fgeek/pyfiscan
 https://github.com/fireeye/red_team_tool_countermeasures
-https://github.com/foospidy/payloads.git
 https://github.com/fransr/postMessage-tracker
 https://github.com/frohoff/ysoserial.git
 https://github.com/fuzzdb-project/fuzzdb.git
@@ -277,17 +218,13 @@ https://github.com/openstack/bandit
 https://github.com/ouspg/urlhandlers
 https://github.com/oversecured/ovaa
 https://github.com/ozguralp/gmapsapiscanner/
-https://github.com/payloadbox/command-injection-payload-list
-https://github.com/payloadbox/xss-payload-list
 https://github.com/pentestmonkey/php-reverse-shell
 https://github.com/phishai/idn_generator
 https://github.com/pingidentity/pingidentity-docker-builds
 https://github.com/psmet/BIGip-cookie-decoder
-https://github.com/ptoomey3/Keychain-Dumper
 https://github.com/ptoomey3/evilarc
 https://github.com/ptswarm/ptswarm-twitter
 https://github.com/ptswarm/reFlutter
-https://github.com/putsi/privatecollaborator
 https://github.com/pwntester/ysoserial.net
 https://github.com/quarkslab/AERoot
 https://github.com/quentinhardy/odat
@@ -308,7 +245,6 @@ https://github.com/stefanesser/dumpdecrypted
 https://github.com/stevenvachon/broken-link-checker
 https://github.com/streaak/keyhacks
 https://github.com/swisskyrepo/GraphQLmap
-https://github.com/swisskyrepo/PayloadsAllTheThings
 https://github.com/swisskyrepo/SSRFmap
 https://github.com/sxcurity/230-OOB
 https://github.com/sxcurity/theftfuzzer
@@ -317,7 +253,6 @@ https://github.com/tengzhangchao/Struts2_045-Poc.git
 https://github.com/tls-attacker/TLS-Attacker
 https://github.com/tomnomnom/waybackurls
 https://github.com/ucsb-seclab/BootStomp
-https://github.com/vulnersCom/burp-vulners-scanner.git
 https://github.com/vulnersCom/nmap-vulners
 https://github.com/vysec/CloudFrontHijacks
 https://github.com/whatyouhide/vim-gotham
