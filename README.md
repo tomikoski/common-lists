@@ -44,6 +44,7 @@ An attempt to sort stuff in different categories
 * https://github.com/Darkkey/erlamsa
 * https://github.com/Darkkey/erlserial.git
 * https://github.com/attekett/NodeFuzz
+* https://github.com/sxcurity/theftfuzzer
 
 ## Hardware
 
@@ -61,6 +62,7 @@ An attempt to sort stuff in different categories
 ## Mobile
 * https://github.com/randorisec/MobileHackingCheatSheet
 * https://github.com/ptswarm/reFlutter
+* https://github.com/randorisec/MobileHackingCheatSheet
 
 ### Android
 * https://www.github.com/maaaaz/androwarn
@@ -113,6 +115,8 @@ An attempt to sort stuff in different categories
 * https://github.com/akiraaisha/PNG-IDAT-chunks
 * https://github.com/alcuadrado/hieroglyphy
 * https://github.com/chinarulezzz/pixload
+* https://github.com/tengzhangchao/Struts2_045-Poc.git
+* https://github.com/quentinhardy/scriptsAndExploits
 
 ## Recon / Scanners etc.
 * https://github.com/Ullaakut/cameradar
@@ -122,6 +126,8 @@ An attempt to sort stuff in different categories
 * https://github.com/zxgio/r2-cheatsheet
 * https://github.com/blechschmidt/massdns
 * https://github.com/brandonskerritt/RustScan
+* https://github.com/tomnomnom/waybackurls
+* https://github.com/ozguralp/gmapsapiscanner/
 
 ## Reverse-engineering
 * https://github.com/Col-E/Recaf
@@ -243,7 +249,6 @@ https://github.com/neex/gifoeb
 https://github.com/netbiosX/Default-Credentials
 https://github.com/onelogin/python3-saml
 https://github.com/openstack/bandit
-https://github.com/ozguralp/gmapsapiscanner/
 https://github.com/pentestmonkey/php-reverse-shell
 https://github.com/phishai/idn_generator
 https://github.com/pingidentity/pingidentity-docker-builds
@@ -251,9 +256,7 @@ https://github.com/psmet/BIGip-cookie-decoder
 https://github.com/ptoomey3/evilarc
 https://github.com/quarkslab/AERoot
 https://github.com/quentinhardy/odat
-https://github.com/quentinhardy/scriptsAndExploits
 https://github.com/r0eXpeR/redteam_vul
-https://github.com/randorisec/MobileHackingCheatSheet
 https://github.com/rebootuser/LinEnum
 https://github.com/rgerganov/xxe-example
 https://github.com/saleyn/erlexec
@@ -266,10 +269,7 @@ https://github.com/streaak/keyhacks
 https://github.com/swisskyrepo/GraphQLmap
 https://github.com/swisskyrepo/SSRFmap
 https://github.com/sxcurity/230-OOB
-https://github.com/sxcurity/theftfuzzer
 https://github.com/tarunkant/Gopherus
-https://github.com/tengzhangchao/Struts2_045-Poc.git
-https://github.com/tomnomnom/waybackurls
 https://github.com/ucsb-seclab/BootStomp
 https://github.com/vulnersCom/nmap-vulners
 https://github.com/vysec/CloudFrontHijacks
