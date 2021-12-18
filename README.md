@@ -30,8 +30,15 @@
 * https://github.com/g2jun/RC4-Python
 
 ## Dorking
+
+### Github
 * https://github.com/techgaun/github-dorks
+
+### Google
 * https://github.com/JohnTroony/Google-dorks/
+
+### Shodan
+* https://github.com/jakejarvis/awesome-shodan-queries
 
 ## Frida
 * https://github.com/0xdea/frida-scripts
