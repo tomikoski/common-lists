@@ -3,7 +3,6 @@ An attempt to sort stuff in different categories
 
 ## Bugbounty
 * https://github.com/EdOverflow/bugbounty-cheatsheet
-* https://github.com/GerbenJavado/LinkFinder
 * https://github.com/arkadiyt/bounty-targets-data
 * https://github.com/ngalongc/bug-bounty-reference
 
@@ -26,6 +25,7 @@ An attempt to sort stuff in different categories
 * https://github.com/ciphey/ciphey
 * https://github.com/dariusztytko/jwt-key-id-injector
 * https://github.com/dariusztytko/token-reverser
+* https://github.com/brendan-rius/c-jwt-cracker
 
 ## Dorking
 * https://github.com/techgaun/github-dorks
@@ -43,6 +43,7 @@ An attempt to sort stuff in different categories
 * https://github.com/0verpwn/Fuzzing
 * https://github.com/Darkkey/erlamsa
 * https://github.com/Darkkey/erlserial.git
+* https://github.com/attekett/NodeFuzz
 
 ## Hardware
 
@@ -107,13 +108,17 @@ An attempt to sort stuff in different categories
 * https://github.com/fuzzdb-project/fuzzdb.git
 * https://github.com/mattias-ohlsson/eicar-standard-antivirus-test-files
 * https://github.com/damianrusinek/zip-bomb
+* https://github.com/SecWiki/windows-kernel-exploits
+* https://github.com/quentinhardy/scriptsAndExploits
 
 ## Recon / Scanners etc.
 * https://github.com/Ullaakut/cameradar
 * https://github.com/0xn0ne/weblogicScanner
 * https://github.com/0x25/pyScan 
 * https://github.com/C0RB3N/subjs
-* xx
+* https://github.com/zxgio/r2-cheatsheet
+* https://github.com/blechschmidt/massdns
+* https://github.com/brandonskerritt/RustScan
 
 ## Reverse-engineering
 * https://github.com/Col-E/Recaf
@@ -139,16 +144,11 @@ An attempt to sort stuff in different categories
 
 ## NOT SORTED YET
 ```
-https://github.com/0x25/pyScan
 https://github.com/0xSobky/HackVault
-https://github.com/0xn0ne/weblogicScanner
 https://github.com/Arno0x/DNSExfiltrator
-https://github.com/C0RB3N/subjs
-https://github.com/Col-E/Recaf
 https://github.com/DeepakPawar95/cswsh
 https://github.com/FireFart/W3TotalCacheExploit.git
 https://github.com/Ganapati/RsaCtfTool
-https://github.com/GerbenJavado/LinkFinder
 https://github.com/GrrrDog/ZeroNights-HackQuest-2016.git
 https://github.com/IOActive/RepoSsessed
 https://github.com/KathanP19/JSFScan.sh
@@ -156,7 +156,6 @@ https://github.com/MindPointGroup/cloudfrunt
 https://github.com/NickstaDB/DeserLab
 https://github.com/OJ/gobuster.git
 https://github.com/Plazmaz/leaky-repo
-https://github.com/SecWiki/windows-kernel-exploits
 https://github.com/Smaash/snitch
 https://github.com/SpiderLabs/Nmap-Tools.git
 https://github.com/WebBreacher/tilde_enum
@@ -171,10 +170,6 @@ https://github.com/anshumanbh/tko-subs
 https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration
 https://github.com/arch4ngel/simple_https_server
 https://github.com/atomicbird/momdec
-https://github.com/attekett/NodeFuzz
-https://github.com/blechschmidt/massdns
-https://github.com/brandonskerritt/RustScan
-https://github.com/brendan-rius/c-jwt-cracker
 https://github.com/catalyst256/Netscaler-Cookie-Decryptor
 https://github.com/chinarulezzz/pixload
 https://github.com/christophetd/CloudFlair
@@ -184,7 +179,6 @@ https://github.com/codingo/Interlace.git
 https://github.com/cujanovic/SSRF-Testing/
 https://github.com/cure53/HTTPLeaks
 https://github.com/danielebailo/couchdb-dump
-https://github.com/dariusztytko/jwt-key-id-injector
 https://github.com/dariusztytko/token-reverser
 https://github.com/dark-warlord14/LinkFinder
 https://github.com/defparam/h1passets
