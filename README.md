@@ -97,6 +97,11 @@ An attempt to sort stuff in different categories
 * https://github.com/pwntester/ysoserial.net
 * https://github.com/fuzzdb-project/fuzzdb.git
 
+## SSH
+* https://github.com/atthorst/sshd-mina-example
+* https://github.com/keathmilligan/sshdtest
+* https://github.com/rapid7/ssh-badkeys/
+
 ## TLS/SSL/and then some
 * https://github.com/tls-attacker/TLS-Attacker
 * https://github.com/drwetter/testssl.sh
@@ -144,7 +149,6 @@ https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration
 https://github.com/arch4ngel/simple_https_server
 https://github.com/atomicbird/momdec
 https://github.com/attekett/NodeFuzz
-https://github.com/atthorst/sshd-mina-example
 https://github.com/bhagyas/app-urls
 https://github.com/blechschmidt/massdns
 https://github.com/brandonskerritt/RustScan
@@ -201,7 +205,6 @@ https://github.com/jobertabma/relative-url-extractor
 https://github.com/jobertabma/transformations
 https://github.com/jordanpotti/AWSBucketDump
 https://github.com/jpillora/chisel
-https://github.com/keathmilligan/sshdtest
 https://github.com/leibnitz27/cfr
 https://github.com/lich4/personal_script
 https://github.com/m4ll0k/SecretFinder.git
@@ -222,8 +225,6 @@ https://github.com/mzer0one/CVE-2020-7961-POC
 https://github.com/n3k/Pentest
 https://github.com/nahamsec/JSParser
 https://github.com/nahamsec/lazys3
-https://github.com/nccgroup/BLE-Replay
-https://github.com/nccgroup/BLESuite
 https://github.com/nccgroup/featherduster
 https://github.com/neex/gifoeb
 https://github.com/netbiosX/Default-Credentials
@@ -240,7 +241,6 @@ https://github.com/quentinhardy/odat
 https://github.com/quentinhardy/scriptsAndExploits
 https://github.com/r0eXpeR/redteam_vul
 https://github.com/randorisec/MobileHackingCheatSheet
-https://github.com/rapid7/ssh-badkeys/
 https://github.com/rebootuser/LinEnum
 https://github.com/rgerganov/xxe-example
 https://github.com/saleyn/erlexec
