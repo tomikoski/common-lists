@@ -4,6 +4,7 @@
 * https://github.com/EdOverflow/bugbounty-cheatsheet
 * https://github.com/arkadiyt/bounty-targets-data
 * https://github.com/ngalongc/bug-bounty-reference
+* https://github.com/streaak/keyhacks
 
 ## Burp
 * https://github.com/putsi/privatecollaborator
@@ -25,6 +26,7 @@
 * https://github.com/dariusztytko/jwt-key-id-injector
 * https://github.com/dariusztytko/token-reverser
 * https://github.com/brendan-rius/c-jwt-cracker
+* https://github.com/nccgroup/featherduster
 
 ## Dorking
 * https://github.com/techgaun/github-dorks
@@ -126,6 +128,7 @@
 * https://github.com/ianare/exif-samples
 * https://github.com/pentestmonkey/php-reverse-shell
 * https://github.com/neex/gifoeb
+* https://github.com/psmet/BIGip-cookie-decoder
 
 ## Recon / Scanners etc.
 * https://github.com/Ullaakut/cameradar
@@ -247,12 +250,10 @@ https://github.com/mzer0one/CVE-2020-7961-POC
 https://github.com/n3k/Pentest
 https://github.com/nahamsec/JSParser
 https://github.com/nahamsec/lazys3
-https://github.com/nccgroup/featherduster
 https://github.com/onelogin/python3-saml
 https://github.com/openstack/bandit
 https://github.com/phishai/idn_generator
 https://github.com/pingidentity/pingidentity-docker-builds
-https://github.com/psmet/BIGip-cookie-decoder
 https://github.com/ptoomey3/evilarc
 https://github.com/quarkslab/AERoot
 https://github.com/quentinhardy/odat
@@ -265,7 +266,6 @@ https://github.com/shaunmclernon/ghostcat-verification
 https://github.com/smicallef/spiderfoot
 https://github.com/sp1d3r/swf_json_csrf/
 https://github.com/stevenvachon/broken-link-checker
-https://github.com/streaak/keyhacks
 https://github.com/swisskyrepo/GraphQLmap
 https://github.com/swisskyrepo/SSRFmap
 https://github.com/sxcurity/230-OOB
