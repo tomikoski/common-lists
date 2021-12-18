@@ -142,6 +142,10 @@ An attempt to sort stuff in different categories
 * https://github.com/drwetter/testssl.sh
 * https://github.com/mozilla/cipherscan
 
+## vim <3
+* https://github.com/amix/vimrc
+* https://github.com/whatyouhide/vim-gotham 
+
 ## WWW- External resources
 * https://github.com/m0chan/m0chan.github.io
 
@@ -269,9 +273,7 @@ https://github.com/tomnomnom/waybackurls
 https://github.com/ucsb-seclab/BootStomp
 https://github.com/vulnersCom/nmap-vulners
 https://github.com/vysec/CloudFrontHijacks
-https://github.com/whatyouhide/vim-gotham
 https://github.com/whoisflynn/OSCP-Exam-Report-Template
-https://github.com/xct/xc
 https://github.com/xyele/zile
 https://github.com/yassineaboukir/CVE-2018-0296.git
 https://github.com/zricethezav/gitleaks
