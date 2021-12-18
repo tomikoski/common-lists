@@ -27,6 +27,7 @@
 * https://github.com/dariusztytko/token-reverser
 * https://github.com/brendan-rius/c-jwt-cracker
 * https://github.com/nccgroup/featherduster
+* https://github.com/g2jun/RC4-Python
 
 ## Dorking
 * https://github.com/techgaun/github-dorks
@@ -53,6 +54,7 @@
 * https://github.com/virtualabs/btlejack
 * https://github.com/nccgroup/BLE-Replay
 * https://github.com/nccgroup/BLESuite
+* https://github.com/greatscottgadgets/ubertooth
 
 ### Hydrabus
 * https://github.com/hydrabus/DumpFlash-Hydrabus
@@ -212,13 +214,9 @@ https://github.com/evilcos/xss.swf
 https://github.com/fgeek/pyfiscan
 https://github.com/fireeye/red_team_tool_countermeasures
 https://github.com/fransr/postMessage-tracker
-https://github.com/g2jun/RC4-Python
 https://github.com/gehaxelt/Python-dsstore
 https://github.com/gelim/censys
-https://github.com/getrailo/railo
 https://github.com/google/tsunami-security-scanner
-https://github.com/googleapis/google-api-python-client
-https://github.com/greatscottgadgets/ubertooth
 https://github.com/hakimel/reveal.js
 https://github.com/iagox86/dnscat2.git
 https://github.com/infosec-au/altdns.git
