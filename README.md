@@ -129,6 +129,7 @@
 * https://github.com/pentestmonkey/php-reverse-shell
 * https://github.com/neex/gifoeb
 * https://github.com/psmet/BIGip-cookie-decoder
+* https://github.com/joaomatosf/jexboss
 
 ## Recon / Scanners etc.
 * https://github.com/Ullaakut/cameradar
@@ -144,7 +145,6 @@
 ## Reverse-engineering
 * https://github.com/Col-E/Recaf
 * https://github.com/zxgio/r2-cheatsheet
-* 
 
 ## Shells etc.
 * https://github.com/jpillora/chisel
@@ -228,7 +228,6 @@ https://github.com/j0bin/Pentest-Resources
 https://github.com/j3ssie/IPOsint
 https://github.com/jakejarvis/awesome-shodan-queries
 https://github.com/jmortega/osint_tools_security_auditing
-https://github.com/joaomatosf/jexboss
 https://github.com/jobertabma/ground-control.git
 https://github.com/jobertabma/relative-url-extractor
 https://github.com/jobertabma/transformations
