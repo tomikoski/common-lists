@@ -30,8 +30,11 @@
 * https://github.com/nccgroup/featherduster
 * https://github.com/g2jun/RC4-Python
 
-## Dorking
+## Decompilers
+### Java
+* https://github.com/leibnitz27/cfr
 
+## Dorking
 ### Github
 * https://github.com/techgaun/github-dorks
 
@@ -57,7 +60,6 @@
 * https://github.com/sxcurity/theftfuzzer
 
 ## Hardware
-
 ### Bluetooth/BLE
 * https://github.com/virtualabs/btlejack
 * https://github.com/nccgroup/BLE-Replay
@@ -238,7 +240,6 @@ https://github.com/jobertabma/ground-control.git
 https://github.com/jobertabma/relative-url-extractor
 https://github.com/jobertabma/transformations
 https://github.com/jordanpotti/AWSBucketDump
-https://github.com/leibnitz27/cfr
 https://github.com/lich4/personal_script
 https://github.com/m4ll0k/SecretFinder.git
 https://github.com/maK-/parameth
