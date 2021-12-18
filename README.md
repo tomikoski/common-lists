@@ -108,6 +108,18 @@ An attempt to sort stuff in different categories
 * https://github.com/mattias-ohlsson/eicar-standard-antivirus-test-files
 * https://github.com/damianrusinek/zip-bomb
 
+## Recon / Scanners etc.
+* https://github.com/Ullaakut/cameradar
+* https://github.com/0xn0ne/weblogicScanner
+* https://github.com/0x25/pyScan 
+* https://github.com/C0RB3N/subjs
+* xx
+
+## Reverse-engineering
+* https://github.com/Col-E/Recaf
+* https://github.com/zxgio/r2-cheatsheet
+* 
+
 ## Shells etc.
 * https://github.com/jpillora/chisel
 * https://github.com/xct/xc
@@ -147,7 +159,6 @@ https://github.com/Plazmaz/leaky-repo
 https://github.com/SecWiki/windows-kernel-exploits
 https://github.com/Smaash/snitch
 https://github.com/SpiderLabs/Nmap-Tools.git
-https://github.com/Ullaakut/cameradar
 https://github.com/WebBreacher/tilde_enum
 https://github.com/abhi-r3v0/Adhrit
 https://github.com/akiraaisha/PNG-IDAT-chunks
@@ -270,6 +281,5 @@ https://github.com/xct/xc
 https://github.com/xyele/zile
 https://github.com/yassineaboukir/CVE-2018-0296.git
 https://github.com/zricethezav/gitleaks
-https://github.com/zxgio/r2-cheatsheet
 https://gitlab.com/dee-see/graphql-path-enum
 ```
