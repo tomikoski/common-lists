@@ -74,6 +74,7 @@
 * https://github.com/randorisec/MobileHackingCheatSheet
 * https://github.com/ptswarm/reFlutter
 * https://github.com/randorisec/MobileHackingCheatSheet
+* https://github.com/dpnishant/appmon
 
 ### Android
 * https://www.github.com/maaaaz/androwarn
@@ -216,7 +217,6 @@ https://github.com/defparam/h1passets
 https://github.com/diego-treitos/linux-smart-enumeration
 https://github.com/disclose/disclose
 https://github.com/dogangcr/vulnerable-sso
-https://github.com/dpnishant/appmon
 https://github.com/dxa4481/XSSJacking.git
 https://github.com/epinna/tplmap.git
 https://github.com/erlang/rebar3.git
