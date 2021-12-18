@@ -2,18 +2,15 @@
 
 An attempt to sort stuff in different categories
 
-## First of all, cheers to these guys!
-* https://github.com/jvesiluoma/WeirdMiscScripts
-* https://github.com/jvesiluoma/wordlists
-* https://github.com/m0chan/m0chan.github.io
-* https://github.com/putsi/privatecollaborator
-
 
 ## Bugbounty
 * https://github.com/EdOverflow/bugbounty-cheatsheet
 * https://github.com/GerbenJavado/LinkFinder
 * https://github.com/arkadiyt/bounty-targets-data
 * https://github.com/ngalongc/bug-bounty-reference
+
+## Burp
+* https://github.com/putsi/privatecollaborator
 
 ## Cloud
 
@@ -76,6 +73,8 @@ An attempt to sort stuff in different categories
 * https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads
 * https://github.com/7ioSecurity/XSS-Payloads.git
 * https://github.com/danielmiessler/SecLists.git
+* https://github.com/jvesiluoma/wordlists
+* https://github.com/jvesiluoma/WeirdMiscScripts
 
 ## Swisscom :]
 * https://github.com/swisscom/PowerGRR.git
@@ -140,6 +139,8 @@ An attempt to sort stuff in different categories
 * https://github.com/swisscom/vmware-network-profiles-patch.git
 * https://github.com/swisscom/vrli-vro-nodejs.git
 
+## External resources
+* https://github.com/m0chan/m0chan.github.io
 
 ## NOT SORTED YET
 ```
