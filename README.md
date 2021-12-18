@@ -12,6 +12,8 @@ An attempt to sort stuff in different categories
 ## Burp
 * https://github.com/putsi/privatecollaborator
 * https://github.com/vulnersCom/burp-vulners-scanner.git
+* https://github.com/PortSwigger/hackability
+* https://github.com/PortSwigger/turbo-intruder
 
 ## Cloud
 
@@ -34,7 +36,6 @@ An attempt to sort stuff in different categories
 * https://github.com/rubaljain/frida-jb-bypass
 * https://gitlab.com/roxanagogonea/frida-scripts.git
 
-
 ## Fuzzing
 * https://github.com/0verpwn/Fuzzing
 * https://github.com/Darkkey/erlamsa
@@ -47,8 +48,12 @@ An attempt to sort stuff in different categories
 * https://github.com/nccgroup/BLE-Replay
 * https://github.com/nccgroup/BLESuite
 
+### Proxmark
+* https://github.com/rfidresearchgroup/proxmark3
+
 ## Mobile
 * https://github.com/randorisec/MobileHackingCheatSheet
+* https://github.com/ptswarm/reFlutter
 
 ### Android
 * https://www.github.com/maaaaz/androwarn
@@ -70,6 +75,10 @@ An attempt to sort stuff in different categories
 * https://github.com/ivRodriguezCA/RE-iOS-Apps
 * https://github.com/ptoomey3/Keychain-Dumper 
 
+### Xamarin
+* https://github.com/securitygrind/lz4_decompress 
+* https://github.com/xamarin/xamarin-forms-samples
+
 ## Payloads etc.
 * https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads
 * https://github.com/7ioSecurity/XSS-Payloads.git
@@ -81,6 +90,8 @@ An attempt to sort stuff in different categories
 * https://github.com/swisskyrepo/PayloadsAllTheThings
 * https://github.com/payloadbox/command-injection-payload-list
 * https://github.com/payloadbox/xss-payload-list
+* https://github.com/ptswarm/ptswarm-twitter
+
 
 ## WWW- External resources
 * https://github.com/m0chan/m0chan.github.io
@@ -106,8 +117,6 @@ https://github.com/Moonisky/NibFileViewer
 https://github.com/NickstaDB/DeserLab
 https://github.com/OJ/gobuster.git
 https://github.com/Plazmaz/leaky-repo
-https://github.com/PortSwigger/hackability
-https://github.com/PortSwigger/turbo-intruder
 https://github.com/SecWiki/windows-kernel-exploits
 https://github.com/Smaash/snitch
 https://github.com/SpiderLabs/Nmap-Tools.git
@@ -223,8 +232,6 @@ https://github.com/phishai/idn_generator
 https://github.com/pingidentity/pingidentity-docker-builds
 https://github.com/psmet/BIGip-cookie-decoder
 https://github.com/ptoomey3/evilarc
-https://github.com/ptswarm/ptswarm-twitter
-https://github.com/ptswarm/reFlutter
 https://github.com/pwntester/ysoserial.net
 https://github.com/quarkslab/AERoot
 https://github.com/quentinhardy/odat
@@ -233,7 +240,6 @@ https://github.com/r0eXpeR/redteam_vul
 https://github.com/randorisec/MobileHackingCheatSheet
 https://github.com/rapid7/ssh-badkeys/
 https://github.com/rebootuser/LinEnum
-https://github.com/rfidresearchgroup/proxmark3
 https://github.com/rgerganov/xxe-example
 https://github.com/saleyn/erlexec
 https://github.com/samyk/quickjack
