@@ -1,4 +1,5 @@
-# Links An attempt to sort stuff in different categories
+# Links
+An attempt to sort stuff in different categories
 
 ## Bugbounty
 * https://github.com/EdOverflow/bugbounty-cheatsheet
