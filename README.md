@@ -183,7 +183,7 @@ An attempt to sort stuff in different categories
 * https://github.com/whatyouhide/vim-gotham 
 
 ## WWW- External resources
-* https://github.com/m0chan/m0chan.github.io
+* https://m0chan.github.io/
 
 ## NOT SORTED YET
 ```
