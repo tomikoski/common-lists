@@ -1,6 +1,9 @@
 # Links
 An attempt to sort stuff in different categories
 
+## Browsers / Browser extensions
+* https://github.com/fransr/postMessage-tracker
+
 ## Bugbounty
 * https://github.com/EdOverflow/bugbounty-cheatsheet
 * https://github.com/arkadiyt/bounty-targets-data
@@ -148,9 +151,11 @@ An attempt to sort stuff in different categories
 * https://github.com/joaomatosf/jexboss
 * https://github.com/mzer0one/CVE-2020-7961-POC
 * https://github.com/chvancooten/OSEP-Code-Snippets/
+* https://github.com/yassineaboukir/CVE-2018-0296.git
+* https://github.com/shaunmclernon/ghostcat-verification
 
 
-## Recon / Scanners etc.
+## Recon / Scanners / tools / etc.
 * https://github.com/Ullaakut/cameradar
 * https://github.com/0xn0ne/weblogicScanner
 * https://github.com/0x25/pyScan 
@@ -169,6 +174,8 @@ An attempt to sort stuff in different categories
 * https://github.com/WebBreacher/tilde_enum
 * https://github.com/eth0izzle/bucket-stream
 * https://github.com/fgeek/pyfiscan
+* https://github.com/quentinhardy/odat
+* https://gitlab.com/dee-see/graphql-path-enum
 
 
 ### Git / SVN / others
@@ -203,10 +210,14 @@ An attempt to sort stuff in different categories
 ## WWW- External resources
 * https://m0chan.github.io/
 
-## Training targets / Writeups
+## Training targets / Writeups / Documents
 * https://github.com/dogangcr/vulnerable-sso
 * https://github.com/GrrrDog/ZeroNights-HackQuest-2016.git
 * https://github.com/infosecn1nja/AD-Attack-Defense
+* https://github.com/r0eXpeR/redteam_vul
+* https://github.com/n3k/Pentest
+* https://github.com/fireeye/red_team_tool_countermeasures
+* https://github.com/whoisflynn/OSCP-Exam-Report-Template
 
 ## NOT SORTED YET
 ```
@@ -237,19 +248,13 @@ https://github.com/disclose/disclose
 https://github.com/dxa4481/XSSJacking.git
 https://github.com/epinna/tplmap.git
 https://github.com/erlang/rebar3.git
-https://github.com/fireeye/red_team_tool_countermeasures
-https://github.com/fransr/postMessage-tracker
 https://github.com/gehaxelt/Python-dsstore
 https://github.com/hakimel/reveal.js
 https://github.com/iagox86/dnscat2.git
 https://github.com/infosec-au/altdns.git
 https://github.com/j0bin/Pentest-Resources
 https://github.com/j3ssie/IPOsint
-https://github.com/jakejarvis/awesome-shodan-queries
 https://github.com/jmortega/osint_tools_security_auditing
-https://github.com/jobertabma/ground-control.git
-https://github.com/jobertabma/relative-url-extractor
-https://github.com/jobertabma/transformations
 https://github.com/jordanpotti/AWSBucketDump
 https://github.com/lich4/personal_script
 https://github.com/mandatoryprogrammer/cloudflare_enum
@@ -261,7 +266,6 @@ https://github.com/misterch0c/twitterBFTD
 https://github.com/mncoppola/rpef
 https://github.com/msantos/procket.git
 https://github.com/mthbernardes/rsg
-https://github.com/n3k/Pentest
 https://github.com/nahamsec/JSParser
 https://github.com/onelogin/python3-saml
 https://github.com/openstack/bandit
@@ -269,13 +273,10 @@ https://github.com/phishai/idn_generator
 https://github.com/pingidentity/pingidentity-docker-builds
 https://github.com/ptoomey3/evilarc
 https://github.com/quarkslab/AERoot
-https://github.com/quentinhardy/odat
-https://github.com/r0eXpeR/redteam_vul
 https://github.com/rebootuser/LinEnum
 https://github.com/rgerganov/xxe-example
 https://github.com/saleyn/erlexec
 https://github.com/samyk/quickjack
-https://github.com/shaunmclernon/ghostcat-verification
 https://github.com/smicallef/spiderfoot
 https://github.com/sp1d3r/swf_json_csrf/
 https://github.com/stevenvachon/broken-link-checker
@@ -286,8 +287,4 @@ https://github.com/tarunkant/Gopherus
 https://github.com/ucsb-seclab/BootStomp
 https://github.com/vulnersCom/nmap-vulners
 https://github.com/vysec/CloudFrontHijacks
-https://github.com/whoisflynn/OSCP-Exam-Report-Template
-https://github.com/xyele/zile
-https://github.com/yassineaboukir/CVE-2018-0296.git
-https://gitlab.com/dee-see/graphql-path-enum
 ```
