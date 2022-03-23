@@ -54,11 +54,13 @@ An attempt to sort stuff in different categories
 * https://gitlab.com/roxanagogonea/frida-scripts.git
 
 ## Fuzzing
+* https://github.com/ffuf/ffuf
 * https://github.com/0verpwn/Fuzzing
 * https://github.com/Darkkey/erlamsa
 * https://github.com/Darkkey/erlserial.git
 * https://github.com/attekett/NodeFuzz
 * https://github.com/sxcurity/theftfuzzer
+* https://github.com/OJ/gobuster.git
 
 ## Hardware
 ### Bluetooth/BLE
@@ -145,6 +147,8 @@ An attempt to sort stuff in different categories
 * https://github.com/psmet/BIGip-cookie-decoder
 * https://github.com/joaomatosf/jexboss
 * https://github.com/mzer0one/CVE-2020-7961-POC
+* https://github.com/chvancooten/OSEP-Code-Snippets/
+
 
 ## Recon / Scanners etc.
 * https://github.com/Ullaakut/cameradar
@@ -159,6 +163,20 @@ An attempt to sort stuff in different categories
 * https://github.com/google/tsunami-security-scanner
 * https://github.com/gelim/censys
 * https://github.com/christophetd/censys-subdomain-finder
+* https://github.com/dark-warlord14/LinkFinder
+* https://github.com/anshumanbh/tko-subs
+* https://github.com/maK-/parameth
+* https://github.com/WebBreacher/tilde_enum
+* https://github.com/eth0izzle/bucket-stream
+* https://github.com/fgeek/pyfiscan
+
+
+### Git / SVN / others
+* https://github.com/Plazmaz/leaky-repo
+* https://github.com/zricethezav/gitleaks
+* https://github.com/anantshri/svn-extractor.git
+* https://github.com/m4ll0k/SecretFinder.git
+
 
 ## Reverse-engineering
 * https://github.com/Col-E/Recaf
@@ -185,54 +203,46 @@ An attempt to sort stuff in different categories
 ## WWW- External resources
 * https://m0chan.github.io/
 
+## Training targets / Writeups
+* https://github.com/dogangcr/vulnerable-sso
+* https://github.com/GrrrDog/ZeroNights-HackQuest-2016.git
+* https://github.com/infosecn1nja/AD-Attack-Defense
+
 ## NOT SORTED YET
 ```
 https://github.com/Arno0x/DNSExfiltrator
 https://github.com/DeepakPawar95/cswsh
 https://github.com/Ganapati/RsaCtfTool
-https://github.com/GrrrDog/ZeroNights-HackQuest-2016.git
 https://github.com/IOActive/RepoSsessed
 https://github.com/KathanP19/JSFScan.sh
 https://github.com/MindPointGroup/cloudfrunt
 https://github.com/NickstaDB/DeserLab
-https://github.com/OJ/gobuster.git
-https://github.com/Plazmaz/leaky-repo
 https://github.com/Smaash/snitch
 https://github.com/SpiderLabs/Nmap-Tools.git
-https://github.com/WebBreacher/tilde_enum
 https://github.com/abhi-r3v0/Adhrit
-https://github.com/anantshri/svn-extractor.git
 https://github.com/andresriancho/enumerate-iam
 https://github.com/andresriancho/nimbostratus.git
-https://github.com/anshumanbh/tko-subs
 https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration
 https://github.com/arch4ngel/simple_https_server
 https://github.com/atomicbird/momdec
 https://github.com/christophetd/CloudFlair
-https://github.com/chvancooten/OSEP-Code-Snippets/
 https://github.com/codingo/Interlace.git
 https://github.com/cujanovic/SSRF-Testing/
 https://github.com/cure53/HTTPLeaks
 https://github.com/danielebailo/couchdb-dump
 https://github.com/dariusztytko/token-reverser
-https://github.com/dark-warlord14/LinkFinder
 https://github.com/defparam/h1passets
 https://github.com/diego-treitos/linux-smart-enumeration
 https://github.com/disclose/disclose
-https://github.com/dogangcr/vulnerable-sso
 https://github.com/dxa4481/XSSJacking.git
 https://github.com/epinna/tplmap.git
 https://github.com/erlang/rebar3.git
-https://github.com/eth0izzle/bucket-stream
-https://github.com/evilcos/xss.swf
-https://github.com/fgeek/pyfiscan
 https://github.com/fireeye/red_team_tool_countermeasures
 https://github.com/fransr/postMessage-tracker
 https://github.com/gehaxelt/Python-dsstore
 https://github.com/hakimel/reveal.js
 https://github.com/iagox86/dnscat2.git
 https://github.com/infosec-au/altdns.git
-https://github.com/infosecn1nja/AD-Attack-Defense
 https://github.com/j0bin/Pentest-Resources
 https://github.com/j3ssie/IPOsint
 https://github.com/jakejarvis/awesome-shodan-queries
@@ -242,8 +252,6 @@ https://github.com/jobertabma/relative-url-extractor
 https://github.com/jobertabma/transformations
 https://github.com/jordanpotti/AWSBucketDump
 https://github.com/lich4/personal_script
-https://github.com/m4ll0k/SecretFinder.git
-https://github.com/maK-/parameth
 https://github.com/mandatoryprogrammer/cloudflare_enum
 https://github.com/mandatoryprogrammer/xssless.git
 https://github.com/maurosoria/dirsearch
@@ -281,6 +289,5 @@ https://github.com/vysec/CloudFrontHijacks
 https://github.com/whoisflynn/OSCP-Exam-Report-Template
 https://github.com/xyele/zile
 https://github.com/yassineaboukir/CVE-2018-0296.git
-https://github.com/zricethezav/gitleaks
 https://gitlab.com/dee-see/graphql-path-enum
 ```
