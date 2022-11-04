@@ -176,7 +176,7 @@ An attempt to sort stuff in different categories
 * https://github.com/fgeek/pyfiscan
 * https://github.com/quentinhardy/odat
 * https://gitlab.com/dee-see/graphql-path-enum
-
+* https://leakix.net/graph
 
 ### Git / SVN / others
 * https://github.com/Plazmaz/leaky-repo
