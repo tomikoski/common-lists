@@ -64,6 +64,7 @@ An attempt to sort stuff in different categories
 * https://github.com/attekett/NodeFuzz
 * https://github.com/sxcurity/theftfuzzer
 * https://github.com/OJ/gobuster.git
+* https://github.com/google/honggfuzz
 
 ## Hardware
 ### Bluetooth/BLE
