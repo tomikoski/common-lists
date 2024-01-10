@@ -76,8 +76,9 @@ An attempt to sort stuff in different categories
 ### Hydrabus
 * https://github.com/hydrabus/DumpFlash-Hydrabus
 
-### Proxmark
+### Proxmark / RFID
 * https://github.com/rfidresearchgroup/proxmark3
+* https://lab401.com/blogs/academy/know-your-magic-cards
 
 ## Mobile
 * https://github.com/randorisec/MobileHackingCheatSheet
