@@ -71,6 +71,10 @@ An attempt to sort stuff in different categories
 * https://github.com/AFLplusplus/AFLplusplus
 
 ## Hardware
+
+### Wireless
+* https://github.com/RCayre/mirage
+
 ### Bluetooth/BLE
 * https://github.com/virtualabs/btlejack
 * https://github.com/nccgroup/BLE-Replay
@@ -215,6 +219,7 @@ An attempt to sort stuff in different categories
 
 ## WWW- External resources
 * https://m0chan.github.io/
+* https://code-byter.com/
 
 ## Training targets / Writeups / Documents
 * https://github.com/dogangcr/vulnerable-sso
