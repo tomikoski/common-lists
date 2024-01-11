@@ -67,6 +67,7 @@ An attempt to sort stuff in different categories
 * https://github.com/google/honggfuzz
 * https://github.com/iljavs/sctpfuzz
 * https://github.com/iljavs/tcpfuzz
+* https://isic.sourceforge.net/
 * https://github.com/AFLplusplus/AFLplusplus
 
 ## Hardware
