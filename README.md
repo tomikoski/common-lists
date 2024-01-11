@@ -65,6 +65,9 @@ An attempt to sort stuff in different categories
 * https://github.com/sxcurity/theftfuzzer
 * https://github.com/OJ/gobuster.git
 * https://github.com/google/honggfuzz
+* https://github.com/iljavs/sctpfuzz
+* https://github.com/iljavs/tcpfuzz
+* https://github.com/AFLplusplus/AFLplusplus
 
 ## Hardware
 ### Bluetooth/BLE
