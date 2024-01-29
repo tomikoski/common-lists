@@ -88,6 +88,9 @@ An attempt to sort stuff in different categories
 * https://github.com/rfidresearchgroup/proxmark3
 * https://lab401.com/blogs/academy/know-your-magic-cards
 
+### SDR
+* https://iqengine.org/
+
 ## Mobile
 * https://github.com/randorisec/MobileHackingCheatSheet
 * https://github.com/ptswarm/reFlutter
