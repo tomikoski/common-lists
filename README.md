@@ -167,6 +167,8 @@ An attempt to sort stuff in different categories
 * https://github.com/yassineaboukir/CVE-2018-0296.git
 * https://github.com/shaunmclernon/ghostcat-verification
 
+### Windows Payloads etc.
+* https://powershellforhackers.com/
 
 ## Recon / Scanners / tools / etc.
 * https://github.com/Ullaakut/cameradar
